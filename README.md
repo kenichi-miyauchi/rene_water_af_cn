@@ -1,3 +1,4 @@
+                                                            Last Update: 2026-07-18
 # [日本語の解説はこちら (Japanese Version)](./README_JP.md)
 
 # Integrated Approach to Addressing Multiple SDGs Challenges
