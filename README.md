@@ -1,31 +1,20 @@
-# integrated-model-renewable-water
-An integrated model using renewable energy to improve water access, reduce child labor, support education recovery, and lower CO₂ emissions.
+# [日本語の解説はこちら (Japanese Version)](./README_JP.md)
 
-# 再生可能エネルギーを起点とした
-# 水問題・児童労働問題・CO2削減 統合モデル(日本語版)
+# Integrated Approach to Addressing Multiple SDGs Challenges
+## Securing Safe Water and Implementing Agroforestry to Achieve Livelihood Improvement, Eradicate Child Labor, and Promote CO2 Sequestration
 
-## ■ このPDFは何か
-再生可能エネルギーを動力源として、
-水問題、児童労働問題、農業・森林育成によるCO2削減を
-一体的に改善するための統合モデルの提案です。
+This repository provides proposal materials on an integrated model that combines safe water access using renewable energy with agroforestry to simultaneously achieve regional livelihood improvement, child labor deterrence, and CO2 sequestration.
 
-## ■ 目的
-世界の以下の課題を同時に改善することを目的としています。
-- 安全な水へのアクセス
-- 児童労働の抑止
-- 教育機会の回復
-- 生計向上(農作物・森林)
-- 地域開発
-- CO2削減(森林吸収)
+## Materials
 
-## ■ 日本語版について
-本PDFは初版の日本語版です。
-
-## ■ 英語版について
-後日、英語版(English version)を追加予定です。
-
-## 本PDFは 2026年4月22日(Earth Day)に公開された初版です。
+- **[English Version](./EN/)**
+  - Latest PDF materials in English.
+- **[Japanese Version](./JP/)**
+  - Latest PDF materials in Japanese.
+- **[Archive](./Archive/)**
+  - Past versions, including the initial release on April 22nd.
 
 ## Contact
 For inquiries:
 miyauchi.kenichi [at] outlook [dot] com
+subject= [Addressing Multiple SDGs Challenges]
